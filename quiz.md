@@ -1,4 +1,4 @@
-# QUIZ
+sc# QUIZ
 This quiz consists of 4 questions. For each question, you will write a command to the shell. Then, you must copy your command and paste it into the `main.sh` file provided. The `main.sh` file is how we will check which commands you used for each question.
 
 Note: Make sure you are in the `~/COMP100-2021F-Lab1` directory before proceeding.

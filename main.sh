@@ -10,11 +10,13 @@ rm ids.txt
 #### ==================================== #####
 
 
-# Command for Q1
+sh quiz.sh
+echo #!/bin/sh>>quiz.sh
 
-# Command for Q2
+chmod 750
 
-# Command for Q3
+cp ./profiles2021/arda.txt quiz.sh
+cat arda.txt
 
-# Command for Q4
+cp ./profiles2020/* profiles2021
 
